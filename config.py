@@ -25,7 +25,7 @@ CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001995978690"))
 OWNER = os.environ.get("OWNER", "VledXd")
 
 #OWNER ID
-OWNER_ID = int(os.environ.get("OWNER_ID", "5262929129"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "6497757690"))
 
 #Port
 PORT = os.environ.get("PORT", "8030")
